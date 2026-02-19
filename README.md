@@ -155,7 +155,6 @@ CREATE TABLE recipes (
 
 ---
 
-## 📄 License
 
 This project was built as part of a technical assessment.  
-Recipe data sourced from [Allrecipes.com](https://www.allrecipes.com).
+
